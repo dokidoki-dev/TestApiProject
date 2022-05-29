@@ -2,3 +2,4 @@ pymysql~=1.0.2
 requests~=2.25.1
 loguru~=0.5.3
 redis~=3.2.0
+xlrd~=1.2.0
